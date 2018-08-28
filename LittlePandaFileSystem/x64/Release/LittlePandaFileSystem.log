@@ -1,0 +1,90 @@
+﻿  stdafx.cpp
+  LittlePandaFileSystem.cpp
+e:\project\littlepandafs\littlepandafilesystem\littlepandafilesystem\tools.h(5): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+e:\project\littlepandafs\littlepandafilesystem\littlepandafilesystem\tools.h(16): warning C4996: 'wcstombs': This function or variable may be unsafe. Consider using wcstombs_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.16299.0\ucrt\stdlib.h(1019): note: 参见“wcstombs”的声明
+e:\project\littlepandafs\littlepandafilesystem\littlepandafilesystem\LPFS.h(37): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+e:\project\littlepandafs\littlepandafilesystem\littlepandafilesystem\LPFS.h(36): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.16299.0\ucrt\stdio.h(207): note: 参见“fopen”的声明
+e:\project\littlepandafs\littlepandafilesystem\littlepandafilesystem\LPFS.h(60): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.16299.0\ucrt\stdio.h(207): note: 参见“fopen”的声明
+e:\project\littlepandafs\littlepandafilesystem\littlepandafilesystem\LPFS.h(89): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.16299.0\ucrt\stdio.h(207): note: 参见“fopen”的声明
+e:\project\littlepandafs\littlepandafilesystem\littlepandafilesystem\LPFS.h(100): warning C4996: '_wfopen': This function or variable may be unsafe. Consider using _wfopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.16299.0\ucrt\corecrt_wstdio.h(130): note: 参见“_wfopen”的声明
+e:\project\littlepandafs\littlepandafilesystem\littlepandafilesystem\LPFS.h(237): warning C4244: “=”: 从“my_ulonglong”转换到“int”，可能丢失数据
+e:\project\littlepandafs\littlepandafilesystem\littlepandafilesystem\LPFS.h(243): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
+e:\project\littlepandafs\littlepandafilesystem\littlepandafilesystem\LPFS.h(260): warning C4244: “=”: 从“my_ulonglong”转换到“int”，可能丢失数据
+e:\project\littlepandafs\littlepandafilesystem\littlepandafilesystem\LPFS.h(169): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.16299.0\ucrt\stdio.h(1772): note: 参见“sprintf”的声明
+e:\project\littlepandafs\littlepandafilesystem\littlepandafilesystem\LPFS.h(189): warning C4996: '_wfopen': This function or variable may be unsafe. Consider using _wfopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.16299.0\ucrt\corecrt_wstdio.h(130): note: 参见“_wfopen”的声明
+e:\project\littlepandafs\littlepandafilesystem\littlepandafilesystem\LPFS.h(192): warning C4996: '_wfopen': This function or variable may be unsafe. Consider using _wfopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.16299.0\ucrt\corecrt_wstdio.h(130): note: 参见“_wfopen”的声明
+e:\project\littlepandafs\littlepandafilesystem\littlepandafilesystem\LPFS.h(205): warning C4996: '_wfopen': This function or variable may be unsafe. Consider using _wfopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.16299.0\ucrt\corecrt_wstdio.h(130): note: 参见“_wfopen”的声明
+e:\project\littlepandafs\littlepandafilesystem\littlepandafilesystem\LPFS.h(219): warning C4477: “wprintf”: 格式字符串“%d”需要类型“int”的参数，但可变参数 2 拥有了类型“::size_t”
+  e:\project\littlepandafs\littlepandafilesystem\littlepandafilesystem\LPFS.h(219): note: 请考虑在格式字符串中使用“%zd”
+e:\project\littlepandafs\littlepandafilesystem\littlepandafilesystem\LPFS.h(219): warning C4477: “wprintf”: 格式字符串“%d”需要类型“int”的参数，但可变参数 3 拥有了类型“unsigned __int64”
+  e:\project\littlepandafs\littlepandafilesystem\littlepandafilesystem\LPFS.h(219): note: 请考虑在格式字符串中使用“%zd”
+e:\project\littlepandafs\littlepandafilesystem\littlepandafilesystem\LPFS.h(224): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.16299.0\ucrt\stdio.h(1772): note: 参见“sprintf”的声明
+e:\project\littlepandafs\littlepandafilesystem\littlepandafilesystem\LPFS.h(231): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.16299.0\ucrt\stdio.h(1772): note: 参见“sprintf”的声明
+e:\project\littlepandafs\littlepandafilesystem\littlepandafilesystem\LPFS.h(254): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.16299.0\ucrt\stdio.h(1772): note: 参见“sprintf”的声明
+e:\project\littlepandafs\littlepandafilesystem\littlepandafilesystem\LPFS.h(262): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.16299.0\ucrt\stdio.h(1772): note: 参见“sprintf”的声明
+e:\project\littlepandafs\littlepandafilesystem\littlepandafilesystem\LPFS.h(393): warning C4244: “=”: 从“my_ulonglong”转换到“int”，可能丢失数据
+e:\project\littlepandafs\littlepandafilesystem\littlepandafilesystem\LPFS.h(400): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
+e:\project\littlepandafs\littlepandafilesystem\littlepandafilesystem\LPFS.h(417): warning C4244: “=”: 从“my_ulonglong”转换到“int”，可能丢失数据
+e:\project\littlepandafs\littlepandafilesystem\littlepandafilesystem\LPFS.h(322): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.16299.0\ucrt\stdio.h(1772): note: 参见“sprintf”的声明
+e:\project\littlepandafs\littlepandafilesystem\littlepandafilesystem\LPFS.h(348): warning C4996: '_wfopen': This function or variable may be unsafe. Consider using _wfopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.16299.0\ucrt\corecrt_wstdio.h(130): note: 参见“_wfopen”的声明
+e:\project\littlepandafs\littlepandafilesystem\littlepandafilesystem\LPFS.h(351): warning C4996: '_wfopen': This function or variable may be unsafe. Consider using _wfopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.16299.0\ucrt\corecrt_wstdio.h(130): note: 参见“_wfopen”的声明
+e:\project\littlepandafs\littlepandafilesystem\littlepandafilesystem\LPFS.h(364): warning C4996: '_wfopen': This function or variable may be unsafe. Consider using _wfopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.16299.0\ucrt\corecrt_wstdio.h(130): note: 参见“_wfopen”的声明
+e:\project\littlepandafs\littlepandafilesystem\littlepandafilesystem\LPFS.h(375): warning C4477: “wprintf”: 格式字符串“%d”需要类型“int”的参数，但可变参数 2 拥有了类型“::size_t”
+  e:\project\littlepandafs\littlepandafilesystem\littlepandafilesystem\LPFS.h(375): note: 请考虑在格式字符串中使用“%zd”
+e:\project\littlepandafs\littlepandafilesystem\littlepandafilesystem\LPFS.h(375): warning C4477: “wprintf”: 格式字符串“%d”需要类型“int”的参数，但可变参数 3 拥有了类型“unsigned __int64”
+  e:\project\littlepandafs\littlepandafilesystem\littlepandafilesystem\LPFS.h(375): note: 请考虑在格式字符串中使用“%zd”
+e:\project\littlepandafs\littlepandafilesystem\littlepandafilesystem\LPFS.h(380): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.16299.0\ucrt\stdio.h(1772): note: 参见“sprintf”的声明
+e:\project\littlepandafs\littlepandafilesystem\littlepandafilesystem\LPFS.h(387): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.16299.0\ucrt\stdio.h(1772): note: 参见“sprintf”的声明
+e:\project\littlepandafs\littlepandafilesystem\littlepandafilesystem\LPFS.h(411): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.16299.0\ucrt\stdio.h(1772): note: 参见“sprintf”的声明
+e:\project\littlepandafs\littlepandafilesystem\littlepandafilesystem\LPFS.h(420): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.16299.0\ucrt\stdio.h(1772): note: 参见“sprintf”的声明
+e:\project\littlepandafs\littlepandafilesystem\littlepandafilesystem\LPFS.h(457): warning C4244: “初始化”: 从“__int64”转换到“int”，可能丢失数据
+e:\project\littlepandafs\littlepandafilesystem\littlepandafilesystem\LPFS.h(452): warning C4996: '_wfopen': This function or variable may be unsafe. Consider using _wfopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.16299.0\ucrt\corecrt_wstdio.h(130): note: 参见“_wfopen”的声明
+e:\project\littlepandafs\littlepandafilesystem\littlepandafilesystem\LPFS.h(463): warning C4996: '_wfopen': This function or variable may be unsafe. Consider using _wfopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.16299.0\ucrt\corecrt_wstdio.h(130): note: 参见“_wfopen”的声明
+e:\project\littlepandafs\littlepandafilesystem\littlepandafilesystem\LPFS.h(492): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.16299.0\ucrt\stdio.h(1772): note: 参见“sprintf”的声明
+e:\project\littlepandafs\littlepandafilesystem\littlepandafilesystem\LPFS.h(488): warning C4101: “tmp_path”: 未引用的局部变量
+e:\project\littlepandafs\littlepandafilesystem\littlepandafilesystem\LPFS.h(530): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.16299.0\ucrt\stdio.h(1772): note: 参见“sprintf”的声明
+e:\project\littlepandafs\littlepandafilesystem\littlepandafilesystem\LPFS.h(526): warning C4101: “tmp_path”: 未引用的局部变量
+e:\project\littlepandafs\littlepandafilesystem\littlepandafilesystem\LPFS.h(563): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.16299.0\ucrt\stdio.h(1772): note: 参见“sprintf”的声明
+e:\project\littlepandafs\littlepandafilesystem\littlepandafilesystem\LPFS.h(576): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.16299.0\ucrt\stdio.h(1772): note: 参见“sprintf”的声明
+e:\project\littlepandafs\littlepandafilesystem\littlepandafilesystem\LPFS.h(591): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.16299.0\ucrt\stdio.h(1772): note: 参见“sprintf”的声明
+e:\project\littlepandafs\littlepandafilesystem\littlepandafilesystem\LPFS.h(630): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.16299.0\ucrt\stdio.h(1772): note: 参见“sprintf”的声明
+e:\project\littlepandafs\littlepandafilesystem\littlepandafilesystem\LPFS.h(653): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.16299.0\ucrt\stdio.h(1772): note: 参见“sprintf”的声明
+e:\project\littlepandafs\littlepandafilesystem\littlepandafilesystem\LPFS.h(691): warning C4244: “初始化”: 从“__int64”转换到“int”，可能丢失数据
+e:\project\littlepandafs\littlepandafilesystem\littlepandafilesystem\LPFS.h(686): warning C4996: '_wfopen': This function or variable may be unsafe. Consider using _wfopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.16299.0\ucrt\corecrt_wstdio.h(130): note: 参见“_wfopen”的声明
+e:\project\littlepandafs\littlepandafilesystem\littlepandafilesystem\LPFS.h(697): warning C4996: '_wfopen': This function or variable may be unsafe. Consider using _wfopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.16299.0\ucrt\corecrt_wstdio.h(130): note: 参见“_wfopen”的声明
+  正在生成代码
+  All 183 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  已完成代码的生成
+  LittlePandaFileSystem.vcxproj -> E:\Project\LittlePandaFS\LittlePandaFileSystem\x64\Release\LittlePandaFileSystem.exe

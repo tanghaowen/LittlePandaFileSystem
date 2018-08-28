@@ -1,0 +1,20 @@
+﻿  stdafx.cpp
+  dllmain.cpp
+  LPFS_DLL.cpp
+E:\Project\LittlePandaFS\LittlePandaFileSystem\LittlePandaFileSystem\tools.h(5): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+LPFS_DLL.cpp(55): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+LPFS_DLL.cpp(263): warning C4244: “=”: 从“my_ulonglong”转换到“int”，可能丢失数据
+LPFS_DLL.cpp(269): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
+LPFS_DLL.cpp(286): warning C4244: “=”: 从“my_ulonglong”转换到“int”，可能丢失数据
+LPFS_DLL.cpp(245): warning C4477: “wprintf”: 格式字符串“%d”需要类型“int”的参数，但可变参数 2 拥有了类型“::size_t”
+  LPFS_DLL.cpp(245): note: 请考虑在格式字符串中使用“%zd”
+LPFS_DLL.cpp(245): warning C4477: “wprintf”: 格式字符串“%d”需要类型“int”的参数，但可变参数 3 拥有了类型“unsigned __int64”
+  LPFS_DLL.cpp(245): note: 请考虑在格式字符串中使用“%zd”
+LPFS_DLL.cpp(325): warning C4244: “初始化”: 从“__int64”转换到“int”，可能丢失数据
+LPFS_DLL.cpp(368): warning C4244: “初始化”: 从“__int64”转换到“int”，可能丢失数据
+LPFS_DLL.cpp(405): warning C4101: “tmp_path”: 未引用的局部变量
+LPFS_DLL.cpp(443): warning C4101: “tmp_path”: 未引用的局部变量
+LPFS_DLL.cpp(562): error C2733: “close”: 不允许重载函数的第二个 C 链接
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.16299.0\ucrt\corecrt_io.h(459): note: 参见“close”的声明
+LPFS_DLL.cpp(576): warning C4477: “printf”: 格式字符串“%d”需要类型“int”的参数，但可变参数 2 拥有了类型“TCHAR **”
+LPFS_DLL.cpp(576): warning C4313: “printf”: 格式字符串中的“%d”与“TCHAR **”类型的参数 2 冲突
