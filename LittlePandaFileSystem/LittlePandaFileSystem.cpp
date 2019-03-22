@@ -55,7 +55,7 @@ int main(void)
 	ReadFilesIndexFromDatabase(&images, sql_connect);
 	ExacFilesFromLibfileToDir(images,exact_path);
 	*/
-	
+
 
 	/*
 

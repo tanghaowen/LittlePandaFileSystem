@@ -1,1 +1,21 @@
-﻿
+﻿  stdafx.cpp
+  dllmain.cpp
+  LPFS_DLL.cpp
+e:\project\littlepandafilesystem\littlepandafilesystem\tools.h(5): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+e:\project\littlepandafilesystem\lpfs_dll\lpfs_dll.cpp(56): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+e:\project\littlepandafilesystem\lpfs_dll\lpfs_dll.cpp(246): warning C4477: “wprintf”: 格式字符串“%d”需要类型“int”的参数，但可变参数 2 拥有了类型“size_t”
+  e:\project\littlepandafilesystem\lpfs_dll\lpfs_dll.cpp(246): note: 请考虑在格式字符串中使用“%zd”
+e:\project\littlepandafilesystem\lpfs_dll\lpfs_dll.cpp(246): warning C4477: “wprintf”: 格式字符串“%d”需要类型“int”的参数，但可变参数 3 拥有了类型“unsigned __int64”
+  e:\project\littlepandafilesystem\lpfs_dll\lpfs_dll.cpp(246): note: 请考虑在格式字符串中使用“%zd”
+e:\project\littlepandafilesystem\lpfs_dll\lpfs_dll.cpp(264): warning C4244: “=”: 从“my_ulonglong”转换到“int”，可能丢失数据
+e:\project\littlepandafilesystem\lpfs_dll\lpfs_dll.cpp(270): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
+e:\project\littlepandafilesystem\lpfs_dll\lpfs_dll.cpp(287): warning C4244: “=”: 从“my_ulonglong”转换到“int”，可能丢失数据
+e:\project\littlepandafilesystem\lpfs_dll\lpfs_dll.cpp(326): warning C4244: “初始化”: 从“__int64”转换到“int”，可能丢失数据
+e:\project\littlepandafilesystem\lpfs_dll\lpfs_dll.cpp(369): warning C4244: “初始化”: 从“__int64”转换到“int”，可能丢失数据
+e:\project\littlepandafilesystem\lpfs_dll\lpfs_dll.cpp(415): warning C4101: “tmp_path”: 未引用的局部变量
+e:\project\littlepandafilesystem\lpfs_dll\lpfs_dll.cpp(453): warning C4101: “tmp_path”: 未引用的局部变量
+e:\project\littlepandafilesystem\lpfs_dll\lpfs_dll.cpp(586): warning C4477: “printf”: 格式字符串“%d”需要类型“int”的参数，但可变参数 2 拥有了类型“TCHAR **”
+e:\project\littlepandafilesystem\lpfs_dll\lpfs_dll.cpp(586): warning C4313: “printf”: 格式字符串中的“%d”与“TCHAR **”类型的参数 2 冲突
+  正在生成代码...
+    正在创建库 E:\Project\LittlePandaFileSystem\x64\Debug\LPFS_DLL.lib 和对象 E:\Project\LittlePandaFileSystem\x64\Debug\LPFS_DLL.exp
+  LPFS_DLL.vcxproj -> E:\Project\LittlePandaFileSystem\x64\Debug\LPFS_DLL.dll
