@@ -6,7 +6,7 @@ MYSQL* OpenLittlepandaMysql() {
 	mysql_options(sql_connect, MYSQL_SET_CHARSET_DIR, "utf8");
 	mysql_options(sql_connect, MYSQL_INIT_COMMAND, "SET NAMES utf8");
 
-	char *host = "localhost", *user = "littlepanda", *password = "shinonomehana";
+	char *host = "localhost", *user = "littlepanda", *password = "yourpassword";
 	if (sql_connect == NULL)
 	{
 		printf("Error %u: %s\n", mysql_errno(sql_connect), mysql_error(sql_connect));
